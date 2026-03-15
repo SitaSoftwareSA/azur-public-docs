@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
 * [Azur](ecosysteme-azur/azur.md)
-* [Azur Connect'](ecosysteme-azur/azur-connect.md)
 
 ## Fiduciaires
 
