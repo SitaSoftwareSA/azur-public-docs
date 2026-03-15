@@ -52,3 +52,8 @@
 * [Experts Automobiles](modules+-azur/experts-automobiles.md)
 * [Garages](modules+-azur/garages.md)
 * [Fitness](modules+-azur/fitness.md)
+
+## Azur Web
+
+* [Introduction](azur-web/introduction.md)
+* [Delivery](azur-web/delivery.md)
