@@ -56,4 +56,4 @@
 ## Azur Web
 
 * [Introduction](azur-web/introduction.md)
-* [Delivery](azur-web/delivery.md)
+* [Livraison](azur-web/delivery.md)
