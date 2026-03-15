@@ -6,7 +6,7 @@ Le module **Livraison** d'Azur Web est l'interface dédiée aux chauffeurs pour 
 
 ## Accès au module
 
-Depuis le menu principal d'Azur Web, sélectionnez **Livraisons** pour accéder au module.
+Depuis le menu principal à gauche d'Azur Web, cliquez sur **Tâches** pour accéder à la liste des livraisons.
 
 ---
 
@@ -40,7 +40,7 @@ Quatre cartes affichent les statistiques principales :
   - Cancelled : Annulées
 
 ### Accès rapide
-Cliquez sur **"Delivery Tasks"** en bas de la page pour accéder directement à la gestion des tâches.
+La section **"Delivery Tasks"** en bas de la page permet d'accéder directement à la liste des livraisons.
 
 ---
 
@@ -311,7 +311,7 @@ Certaines livraisons affichent une icône **téléphone** permettant d'appeler d
 Les livraisons sont groupées par itinéraire (ex: **BRUXELLES**) avec éventuellement des notes comme *"Attention travaux E411 !!!"*.
 
 ### Documents multiples
-Une livraison peut contenir plusieurs documents (ex: *Facture 25663, Note de credit 2623*).
+Une livraison peut contenir plusieurs documents (ex: *Facture 25663, Note de credit 2623*). Vous pouvez cliquer sur chaque document pour afficher les détails des produits ou des colis contenus dans ce document.
 
 ---
 
