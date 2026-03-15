@@ -15,8 +15,7 @@ Les écritures sont générées automatiquement lors de la création de factures
 ### Encodage des écritures
 
 \
-Après avoir lancé le programme cliquez sur le bouton _Ajouter/Chercher_ document ou appuyez sur Enter. La zone d'encodage de l'entête devient active (voir image ci‐dessous).\
-
+Après avoir lancé le programme cliquez sur le bouton _Ajouter/Chercher_ document ou appuyez sur Enter. La zone d'encodage de l'entête devient active (voir image ci‐dessous).<br>
 
 ![](<../.gitbook/assets/image (133).png>)
 

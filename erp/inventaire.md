@@ -98,8 +98,7 @@ Vous pouvez saisir le nombre de produit ou scanner plusieurs fois le produit pou
 
 Pour un produit à poids variable, vous pouvez saisir le poids cumulé ou cliquez sur la calculatrice. Si le produit est correctement configuré, la calculatrice sera automatiquement visible. Dans le cas contraire, pour visualiser la calculatrice, cliquez sur le bouton « Poids variable ».
 
-\
-
+<br>
 
 ![](<../.gitbook/assets/image (263).png>)
 

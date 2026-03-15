@@ -1,14 +1,8 @@
 # Azur rappel 2.0
 
-### Les données ne seront enregistrés que lorsque l'utilisateur cliquera sur valider!Release note <a href="#release-note" id="release-note"></a>
-
-* Version 1, mai 2021 MFI
-
-### Présentation <a href="#presentation" id="presentation"></a>
+## Présentation <a href="#presentation" id="presentation"></a>
 
 Azur Rappel 2.0 est conçu pour vous permettre:
-
-
 
 * De gérer vos rappels au jour le jour.
 * Une gestion simplifiée du traitement des documents.
@@ -539,3 +533,6 @@ Permet de renomer le jeu de paramètres.
 
 ![Vidéo](<../.gitbook/assets/image (292).png>)
 
+### Les données ne seront enregistrés que lorsque l'utilisateur cliquera sur valider!Release note <a href="#release-note" id="release-note"></a>
+
+* Version 1, mai 2021 MFI

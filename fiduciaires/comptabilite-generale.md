@@ -154,8 +154,7 @@ En dessous de ce tableau se trouve un autre tableau qui affiche la répartition 
 
 ![](<../.gitbook/assets/image (97).png>)
 
-Répétez l'étape précédente pour toutes les lignes à encoder. Quand vous avez terminé l'encodage des lignes, cliquez sur le bouton **Valider document** qui se trouve dans la barre en bas de l'écran pour enregistrer l'écriture.\
-
+Répétez l'étape précédente pour toutes les lignes à encoder. Quand vous avez terminé l'encodage des lignes, cliquez sur le bouton **Valider document** qui se trouve dans la barre en bas de l'écran pour enregistrer l'écriture.<br>
 
 ![](<../.gitbook/assets/image (49).png>)
 
@@ -220,7 +219,7 @@ L'encodage des écritures financières comprend deux étapes. L'encodage de l'en
 
 ![](<../.gitbook/assets/image (45).png>)
 
-#### Opération de payement client/fournisseur: Indiquez le type (**"c"** ou **"f"**) dans le champ (a). Choisissez le client ou fournisseur dans les champs (b). À ce moment vous pouvez choisir le n° du document à traiter en cliquant sur la ligne correspondante dans la zone d'affichage des lignes. (→ voir image ci‐**dessous).** 
+#### Opération de payement client/fournisseur: Indiquez le type (**"c"** ou **"f"**) dans le champ (a). Choisissez le client ou fournisseur dans les champs (b). À ce moment vous pouvez choisir le n° du document à traiter en cliquant sur la ligne correspondante dans la zone d'affichage des lignes. (→ voir image ci‐**dessous).**<br>
 
 ![](<../.gitbook/assets/image (47).png>)
 
@@ -246,8 +245,7 @@ Avant de pouvoir encoder des opérations diverses il faut avoir créé un journa
 
 ![](<../.gitbook/assets/image (102).png>)
 
-\
-
+<br>
 
 ![](<../.gitbook/assets/image (98).png>)
 
@@ -440,4 +438,4 @@ Une fois que vous avez paramétré votre dossier pour les virements, vous pouvez
 Le programme fait la distinction entre deux catégories de bénéficiaires qui sont les clients et les fournisseurs.
 
 Pour les fournisseurs, vous ne disposez que du type fichier 'LUP' pour les virements, tandis que pour les clients, il est autant possible de réaliser des virements (fichier LUP) que des ordres de domiciliations (fichier LSL).\
-\
+<br>

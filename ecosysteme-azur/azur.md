@@ -534,8 +534,7 @@ Les écrans _**Regroupage Formulaires (deuxième onglet) 712  (**_&#x70;our la v
 &#x20;
 
 ·         Dans la partie supérieure de l’écran **Azur** nous demande de rechercher les documents à regrouper, avec les critères:\
-\
-
+<br>
 
 o    _No client/fournisseur_, _en mentionnant « du-au » pour inclure_ différents clients/fournisseurs ;
 
