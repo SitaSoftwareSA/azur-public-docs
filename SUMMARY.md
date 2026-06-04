@@ -5,6 +5,10 @@
 * [Introduction](README.md)
 * [Azur](ecosysteme-azur/azur.md)
 
+***
+
+* [Azur Toolkit](azur-toolkit.md)
+
 ## Fiduciaires
 
 * [Introduction](fiduciaires/introduction.md)
@@ -40,10 +44,10 @@
 
 * [Introduction](azur-point-of-sale/introduction.md)
 * [Programme Caisse](azur-point-of-sale/programme-caisse.md)
-* [Programme  Hôtel](azur-point-of-sale/programme-hotel.md)
+* [Programme Hôtel](azur-point-of-sale/programme-hotel.md)
 * [Programme Restaurant](azur-point-of-sale/programme-restaurant.md)
 
-## Modules+  Azur
+## Modules+ Azur
 
 * [Production-Traçabilité](modules+-azur/production-tracabilite.md)
 * [CRM](modules+-azur/crm.md)
